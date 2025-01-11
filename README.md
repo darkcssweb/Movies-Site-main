@@ -1,4 +1,11 @@
  # Movies Site 🤩
+A platform for movie enthusiasts to explore the latest films, TV shows, and ratongs.
 
- ![Capture d'écran 2024-12-15 170543](https://github.com/user-attachments/assets/535d6442-2088-4da4-9e2f-e4aeb277dddb)
-![Capture d'écran 2024-12-15 170642](https://github.com/user-attachments/assets/c9b4dfef-e13c-45fd-bfc3-bae25fea9a11)
+##Project Purpose
+The Purpose of this project is to provide users with detailed information about movies, ratings and reviews. through this site users can:
+--Browse a list of popular and new movies.
+--Search for their favourite movies.
+--Get recommendations based on genres and ratings.
+
+## How to Run the Project
+https://github.com/darkcssweb/Movies-Site-main
